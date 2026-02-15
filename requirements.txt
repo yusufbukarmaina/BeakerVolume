@@ -1,0 +1,9 @@
+torch
+transformers>=4.50.0
+datasets[vision]
+peft
+accelerate
+scikit-learn
+pillow
+gradio
+numpy
